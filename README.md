@@ -22,15 +22,15 @@ I don't skip to a nice-looking plot before the setup underneath it is actually r
 
 ## 🔬 Current research tracks
 
-**[Hypersonic & Aerothermodynamic Research Program](#)**
+**[Hypersonic & Aerothermodynamic Research Program](https://github.com/flashallen4/hypersonic-aerothermo-research)**
 Hypersonic aerodynamics, thermal protection systems, aerothermoelasticity, scramjet inlet/isolator/combustor physics
 `OpenFOAM` `CalculiX` `Gmsh` — 12-project roadmap, in progress
 
-**[CFD Portfolio](#)**
+**[CFD Portfolio](https://github.com/flashallen4/cfd-portfolio)**
 External aerodynamics, compressible/transonic flow, vortex-induced vibration, turbulence modelling
 `OpenFOAM` `PyVista` `Python` — 7-project roadmap, in progress
 
-**[FEA Portfolio](#)**
+**[FEA Portfolio](https://github.com/flashallen4/FEA-portfolio)**
 Aerospace structures and computational mechanics — CubeSat and UAV structural design, thermal-structural coupling
 `CalculiX` `OpenSCAD` `Gmsh` — 8-project roadmap, in progress
 
