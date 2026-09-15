@@ -1,60 +1,284 @@
 # 👋 Hi, I'm Harsh Panchal
 
-🎓 Final-year Aerospace Engineering student @ VIT Bhopal (2023–2027)
-🔭 Building a computational research portfolio in CFD, FEA, and hypersonic aerothermodynamics
-🚀 Aiming for a fully funded PhD next year, focused on hypersonic aerothermodynamics and fluid–structure interaction
+### Aerospace Engineering · CFD · Aerothermodynamics · Computational Mechanics
 
-I don't have publications yet — this portfolio is how I'm building and demonstrating research capacity in the meantime, one verified project at a time rather than by claiming more than the work supports.
+🎓 **Final-year Aerospace Engineering student** at VIT Bhopal University
+🔬 Building a computational research portfolio in **CFD, FEA, heat transfer, and hypersonic aerothermodynamics**
+🚀 Preparing for a **fully funded PhD** focused on **hypersonic aerothermodynamics, thermal management, and fluid–structure interaction**
 
-![OpenFOAM](https://img.shields.io/badge/OpenFOAM-11-0F4D92?style=flat-square)
-![ANSYS](https://img.shields.io/badge/ANSYS-Fluent%20%7C%20Mechanical-FFB71B?style=flat-square)
-![CalculiX](https://img.shields.io/badge/FEA-CalculiX-444444?style=flat-square)
-![Python](https://img.shields.io/badge/Python-NumPy%20%7C%20SciPy%20%7C%20PyVista-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat-square&logo=git&logoColor=white)
+> *“He soared, he smiled, and even as he fell, he fell with grace.”*
+> **— Icarus**
 
 ---
 
-## 🧭 How I work
+## 🪽 Why Aerospace?
 
-I don't skip to a nice-looking plot before the setup underneath it is actually right. Every project starts from the real physics question, gets modeled and meshed properly, and gets checked against something known before I trust the result. If a number comes out wrong or a case doesn't converge the way it should, I'd rather say that than tune the setup until it looks like what I expected.
+I've always been fascinated by the boundary between **what is possible and what has not yet been done**.
 
----
+The **SR-71 Blackbird** is one of the machines that shaped that fascination.
 
-## 🔬 Current research tracks
+Not simply because it could fly at Mach 3, but because making that flight possible required engineers to solve problems across **aerodynamics, propulsion, heat transfer, materials, structures, thermal expansion, and stability** that had never been solved at that scale before.
 
-**[Hypersonic & Aerothermodynamic Research Program](https://github.com/flashallen4/hypersonic-aerothermo-research)**
-Hypersonic aerodynamics, thermal protection systems, aerothermoelasticity, scramjet inlet/isolator/combustor physics
-`OpenFOAM` `CalculiX` `Gmsh` — 12-project roadmap, in progress
+The important part is not that the SR-71 reached the boundary.
 
-**[CFD Portfolio](https://github.com/flashallen4/cfd-portfolio)**
-External aerodynamics, compressible/transonic flow, vortex-induced vibration, turbulence modelling
-`OpenFOAM` `PyVista` `Python` — 7-project roadmap, in progress
+**It's that someone moved the boundary.**
 
-**[FEA Portfolio](https://github.com/flashallen4/FEA-portfolio)**
-Aerospace structures and computational mechanics — CubeSat and UAV structural design, thermal-structural coupling
-`CalculiX` `OpenSCAD` `Gmsh` — 8-project roadmap, in progress
+I want to do the same.
 
-Status per project (not started / in progress / complete) is tracked honestly in each repo's own README — check there for what's actually built vs. planned.
+My long-term ambition is to contribute to making **sustained, flight-stable, crewed Mach 5 flight** an engineering reality.
 
----
+I don't see that as an impossibility.
 
-## 🛠️ Toolchain
+**I see it as an engineering problem.**
 
-**CFD & FEA** `OpenFOAM 11` `ANSYS Fluent` `ANSYS Mechanical` `CalculiX`
-**Geometry & Meshing** `OpenSCAD` `Fusion 360` `Gmsh`
-**Analysis** `Python` `NumPy` `SciPy` `Pandas` `Matplotlib` `PyVista`
-**Environment** `Git` `WSL2 / Ubuntu` `Bash`
+That means first developing the ability to understand the physics standing between today's capabilities and that flight — from compressible flow and transition to aerothermal heating, thermal protection, structural response, stability, propulsion, and fluid–structure interaction.
 
 ---
 
-## 💼 Background
+# 🔬 Research
 
-- B.Tech Aerospace Engineering, VIT Bhopal — CGPA 8.85
-- GATE AE 2026 — AIR 339
-- CAD & Research Intern, Beyond Space Technologies (Jun–Aug 2025) — Used ANSYS Fluent CFD to refine winglet and high-lift flap geometry for a HALE UAV; ran structural mass-property studies (center of gravity, inertia tensor) to inform airframe design trade-offs
+I don't have publications yet.
+
+I'm building the foundation for research through a combination of **independent computational programs and supervised research collaborations**.
+
+The goal isn't to accumulate projects or produce impressive-looking visualizations.
+
+It is to learn how to take a real engineering problem through the full computational research process:
+
+**Problem → Question → Model → Verification → Validation → Investigation → Physical Interpretation → Engineering Decision**
+
+A converged simulation is not automatically a correct simulation.
+
+If a result is inconclusive, fails validation, or contradicts the original hypothesis, that is part of the result — not something to hide.
 
 ---
 
-## 📫 Contact
+# 🤝 Research Collaborations
 
-📧 panchalharsh3118@gmail.com
+### 🇺🇸 Computational Investigation of Transitional Flow over a NACA 4412 Airfoil at Low Reynolds Number
+
+**Dr. Gaurav Sharma · Kennesaw State University, Georgia, USA**
+
+Computational investigation of transitional flow over a NACA 4412 airfoil at low Reynolds number, with emphasis on understanding transition and separated-flow behaviour through computational analysis.
+
+`OpenFOAM` · `CFD` · `Transition Modelling` · `Low-Reynolds-Number Aerodynamics`
+
+**🟡 Ongoing**
+
+*Project details and results are intentionally limited while the research is ongoing.*
+
+---
+
+### 🇪🇸 Toward Dual-Function Nanofluid Systems for Hypersonic Vehicles
+
+#### Part I — Cooling Channel Heat Transfer Characterization
+
+**Dr. Sebastian Andreas Altmeyer · Universitat Politècnica de Catalunya (UPC), Spain**
+
+Computational investigation of cooling-channel heat transfer using nanofluid systems, contributing to the broader study of thermal management approaches for hypersonic vehicles.
+
+`OpenFOAM` · `Heat Transfer` · `Nanofluids` · `Hypersonic Aerothermodynamics`
+
+**🟡 Ongoing**
+
+*Project details and results are intentionally limited while the research is ongoing.*
+
+---
+
+# 🚀 Independent Research Programs
+
+My independent work is organized into three complementary programs. They are deliberately separated: each project is self-contained and reproducible, while the **methodology and research experience carry forward between projects**.
+
+---
+
+## 🌡️ [Hypersonic & Aerothermodynamic Computational Research Program](https://github.com/flashallen4/hypersonic-aerothermo-research)
+
+The core of my long-term research direction.
+
+A **12-project research program** exploring the physics and engineering problems associated with high-speed flight — progressing from hypersonic aerodynamics and heating toward thermal protection, cooling, fluid–structure interaction, aeroelasticity, propulsion, and multidisciplinary design.
+
+The program currently covers:
+
+* Hypersonic aerodynamics and aerothermodynamics
+* Shock–boundary-layer interaction and flow control
+* Hypersonic boundary-layer transition and heating
+* Thermal protection systems
+* Active and effusion cooling
+* Aerothermoelasticity
+* Flexible hypersonic control surfaces
+* Scramjet inlet, isolator and combustor physics
+* Aerothermal optimization
+* Coupled aero-thermal-structural design
+* Integrated hypersonic systems
+
+`OpenFOAM` · `ANSYS Fluent` · `CalculiX` · `Gmsh` · `Python`
+
+**12-project research roadmap · 🟡 In progress**
+
+Every project is treated as an independent research study rather than a software demonstration. No project is considered complete until its research question, verification, validation basis, investigation, physical interpretation, engineering conclusion, and limitations have been addressed.
+
+---
+
+## 🌊 [CFD Portfolio](https://github.com/flashallen4/cfd-portfolio)
+
+A structured CFD program focused on building strong fundamentals in **aerodynamics, turbulence, compressible flow, and unsteady flow physics** before moving deeper into specialized hypersonic problems.
+
+The progression includes:
+
+* External aerodynamics and separated flow
+* Turbulence modelling and mesh independence
+* Vortex shedding and VIV
+* Finite-wing aerodynamics
+* Supersonic shock formation
+* Transonic shock–boundary-layer interaction
+* Multi-element aerodynamic systems and ground effect
+
+`OpenFOAM` · `Gmsh` · `Python` · `PyVista`
+
+**7-project roadmap · 🟡 In progress**
+
+The objective is not to demonstrate that I can operate a CFD solver. It is to demonstrate that I can **formulate, verify, validate, and interpret a computational fluid-dynamics problem**.
+
+---
+
+## 🏗️ [FEA Portfolio](https://github.com/flashallen4/FEA-portfolio)
+
+A computational mechanics program focused on **aerospace structures, finite element analysis, and eventually coupled thermal/fluid–structural problems**.
+
+The roadmap progresses through:
+
+* Aerospace component structural analysis
+* CubeSat structural architecture
+* UAV wing structural analysis
+* Aerodynamic pressure → structural response
+* Thermal → structural coupling
+* Structural optimization
+* Modal analysis
+* High-temperature / thermal protection structures
+
+`CalculiX` · `Gmsh` · `OpenSCAD` · `Python` · `PyVista`
+
+**8-project roadmap · 🟡 In progress**
+
+The emphasis is on developing the ability to distinguish **a mathematically solved structural model from a physically credible engineering analysis**.
+
+---
+
+# 🧠 Research Philosophy
+
+I don't skip to a nice-looking plot before the setup underneath it is right.
+
+For every computational problem, I try to establish:
+
+* What physical question is being asked?
+* What assumptions are justified?
+* Is the numerical model appropriate?
+* Is the mesh sufficiently independent?
+* Has the implementation been verified?
+* Can the result be validated?
+* What physical mechanism explains the result?
+* What engineering decision follows from it?
+* What are the limitations?
+
+**Verification and validation are not the same thing.**
+
+**Complexity is not evidence of quality.**
+
+A simple, well-verified calculation is more valuable than a sophisticated simulation that cannot be trusted.
+
+---
+
+# 🛠️ Technical Toolkit
+
+### CFD
+
+`OpenFOAM 11` · `ANSYS Fluent`
+
+### FEA & Computational Mechanics
+
+`CalculiX` · `ANSYS Mechanical`
+
+### Geometry & Meshing
+
+`OpenSCAD` · `Fusion 360` · `Gmsh`
+
+### Scientific Computing
+
+`Python` · `NumPy` · `SciPy` · `Pandas` · `Matplotlib` · `PyVista`
+
+### Development & Reproducibility
+
+`Git` · `GitHub` · `Bash` · `WSL2` · `Ubuntu 24.04`
+
+---
+
+# 💼 Background
+
+### 🎓 VIT Bhopal University
+
+**B.Tech Aerospace Engineering · 2023–2027**
+CGPA: **8.85 / 10**
+
+### 🛰️ Beyond Space Technologies
+
+**CAD & Research Intern · Jun–Aug 2025**
+
+Worked on computational and design problems for a **HALE UAV**, including:
+
+* Winglet and high-lift flap refinement using ANSYS Fluent
+* Structural mass-property analysis
+* Centre-of-gravity determination
+* Inertia tensor calculations
+* UAV payload-bay and airframe design
+
+### 🏆 GATE Aerospace Engineering 2026
+
+**AIR 339**
+
+---
+
+# 🎯 Where I'm Going
+
+The projects in this profile are not intended to be a collection of unrelated simulations.
+
+They are part of a longer progression:
+
+**CFD fundamentals → aerodynamics → compressible flow → heat transfer → hypersonic aerothermodynamics → thermal protection → structural response → fluid–structure interaction**
+
+The destination is research into **high-speed, crewed flight** and the coupled physics that make it possible.
+
+I don't expect to solve Mach 5 flight as a student.
+
+I want to become the engineer who is capable of working on the problems that stand between **Mach 3 and Mach 5**.
+
+---
+
+## 📊 Project Status
+
+I maintain an explicit distinction between:
+
+🟢 **Complete** — research question answered and work fully documented
+🟡 **In Progress** — active investigation
+⚪ **Planned** — defined research direction not yet started
+
+No project is presented as complete until the evidence supports it.
+
+---
+
+# 📫 Contact
+
+📧 **[panchalharsh3118@gmail.com](mailto:panchalharsh3118@gmail.com)**
+
+Interested in connecting with researchers and engineers working in:
+
+**Hypersonic Aerothermodynamics · Thermal Protection · Heat Transfer · CFD · FSI · Aeroelasticity · Computational Mechanics**
+
+---
+
+<p align="center">
+
+### 🪽 *“He soared, he smiled, and even as he fell, he fell with grace.”*
+
+**— Icarus**
+
+</p>
