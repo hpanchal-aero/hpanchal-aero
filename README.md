@@ -2,7 +2,7 @@
 
 ### Aerospace Engineering · CFD · Aerothermodynamics · Computational Mechanics
 
-🎓 Final-year Aerospace Engineering student, VIT Bhopal University (CGPA 8.85/10)
+🎓 Final-year Aerospace Engineering student, VIT Bhopal University (CGPA 8.78/10)
 
 🏆 GATE Aerospace Engineering 2026 — AIR 339
 
