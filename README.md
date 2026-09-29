@@ -49,7 +49,7 @@ Three self-contained computational programs, each following the same standard: a
 
 ## Background
 
-**VIT Bhopal University** — B.Tech Aerospace Engineering, 2023–2027, CGPA 8.85/10
+**VIT Bhopal University** — B.Tech Aerospace Engineering, 2023–2027, CGPA 8.78/10
 
 **Beyond Space Technologies** — CAD & Research Intern, Jun–Aug 2025 — winglet/high-lift-flap refinement (ANSYS Fluent), mass-property and inertia-tensor analysis, and airframe design for a HALE UAV
 
